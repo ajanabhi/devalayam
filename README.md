@@ -6,4 +6,5 @@ features :
 1) year eastiblished
 2) pujari profiles
 3) goshala for every temple
-4) 
+4) natural food as naivedyam
+5) 
